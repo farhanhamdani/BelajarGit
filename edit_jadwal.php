@@ -26,8 +26,8 @@ session_start();
 <?php endif; ?>
 
 <?php if(isset($_SESSION['login'])) :?>
-  <h2>Edit Jadwal</h2>
-  <p>klik pada jadwal yang ingin diubah untuk memulai pengubahan jadwal</p>
+  
+  <p>Injak pada jadwal yang ingin diubah untuk memulai pengubahan jadwal</p>
     <h3>SEMESTER 1</h3>
       <table>
       <tr>

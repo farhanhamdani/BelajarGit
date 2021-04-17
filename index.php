@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>SMA KREKI</title>
+  <title>SMA KREKI ???</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="style.css">
@@ -15,7 +15,7 @@
 </div>
 
 <div class="content">
-  <h2>Jadwal Kelas 10 SMA KREKI</h2>
+  <h2>Jadwal Kelas 12 SMA KREKI</h2>
     <h3>SEMESTER 1</h3>
       <table>
       <tr>
